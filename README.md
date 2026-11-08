@@ -172,7 +172,7 @@ See `docs/negative-scenarios.md`.
   remains unverified.
 - AI prompt history is incomplete and must be populated with
   the authentic prompts used.
-- The source manifest must be refreshed after this README update.
+- The source manifest records SHA-256 checksums for project files and must be regenerated whenever covered files change.
 
 ## AI Assistance
 

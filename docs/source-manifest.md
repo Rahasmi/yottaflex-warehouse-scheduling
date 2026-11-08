@@ -6,7 +6,7 @@ This manifest excludes itself to avoid a circular checksum.
 
 | File | SHA-256 |
 |---|---|
-| `README.md` | `37294eb5b75321351a1bb303701a35a9ba7bddd29050fbc7552aa6038042711b` |
+| `README.md` | `90360868ab80e2b034f5f036271793787809cba9700dcb62d485bf2ed4ed5c52` |
 | `docs/data-dictionary.md` | `dbb346b642de9e56857a22a4ebe7227f39553332b3ffc13fe212e063d3ae06a0` |
 | `docs/negative-scenarios.md` | `5c32e9196062d1c4d55c6aee8efcdeeeed87675520f5dbf248095d0974db1897` |
 | `docs/prompt-history.md` | `d377bf07647ee5324f10c48517a4a428cd29c85fd0bf85762792363b3e379c8a` |
