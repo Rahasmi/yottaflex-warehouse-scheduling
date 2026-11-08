@@ -60,3 +60,7 @@ This manifest excludes itself to avoid a circular checksum.
 | `src/output/negative_scenarios.csv` | `aa6faefbdf930e7f9964c883c38e904e5e035a1ab8701f0bcdf18497d3a02765` |
 | `src/output/shipments.csv` | `b8978a473e6b90b2348926aa306356a5d23acba0cf9a29980ac8404e22119e2b` |
 | `src/output/vehicles.csv` | `472426ae2b3fdf40c1a06d976d858d99976626597b690d163065184d5e6d8961` |
+| `negative_case_examples/README.md` | `8db5979a1150bec9be748c1faed1ee1b30457a3d5c04b6bb5088abcb64cd784a` |
+| `negative_case_examples/negative_case_appointments.csv` | `3a7016c672c2b615111051570c93cfb769f95a41f9d997b7526fc02beaaae519` |
+| `negative_case_examples/negative_case_events.csv` | `6816308c7169705671ad916c9a16901da63de93c3f5d31da212be5cd4419c409` |
+| `negative_case_examples/negative_case_ground_truth.csv` | `16eb78fff5dee88037d4081b0080cfedac1829003dd527ee7d990f1bfb282e08` |
