@@ -64,3 +64,6 @@ This manifest excludes itself to avoid a circular checksum.
 | `negative_case_examples/negative_case_appointments.csv` | `3a7016c672c2b615111051570c93cfb769f95a41f9d997b7526fc02beaaae519` |
 | `negative_case_examples/negative_case_events.csv` | `6816308c7169705671ad916c9a16901da63de93c3f5d31da212be5cd4419c409` |
 | `negative_case_examples/negative_case_ground_truth.csv` | `16eb78fff5dee88037d4081b0080cfedac1829003dd527ee7d990f1bfb282e08` |
+| `docs/ai-use-disclosure.md` | `e304a76666b8c3ae367165bbfc196966fe1db438c808af4bd779785b04618320` |
+| `docs/ai-use-summary.md` | `ba3797583b52e23c0bac46e10d3bea09f6f8bf04222ed426e8176de035a56c0d` |
+| `docs/chatgpt-prompt-history.md` | `09e5b31df07acf179a76f0e55ad52fef9600b803a17b97fbea564848ffcae4d4` |
