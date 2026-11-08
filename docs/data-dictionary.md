@@ -12,7 +12,7 @@ their column names, record counts, and relationships.
 | `facilities.csv` | Warehouse facility master data | 10 |
 | `docks.csv` | Loading dock master data | 100 |
 | `appointments.csv` | Warehouse scheduling appointments | 20,000 |
-| `events.csv` | Appointment lifecycle events | 98,708 |
+| `events.csv` | Appointment lifecycle events | 100,000 |
 | `ground_truth.csv` | Known labeled appointment issues | 646 |
 | `carriers.csv` | Transport carrier master data | 10 |
 | `vehicles.csv` | Vehicle records and capacities | 20,000 |

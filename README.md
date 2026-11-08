@@ -123,8 +123,8 @@ At scale 2:
 - 646 NO_SHOW appointments
 - 100,000 lifecycle events
 
-However, the event timestamp model remains simplified, and the
-official challenge's exact event-volume requirement is unverified.
+The generated scale-2 dataset contains exactly 100,000 events.
+Lifecycle chronology and dock-overlap checks passed. Other challenge requirements remain under review.
 
 ## Verification Results
 

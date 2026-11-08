@@ -6,8 +6,8 @@ This manifest excludes itself to avoid a circular checksum.
 
 | File | SHA-256 |
 |---|---|
-| `README.md` | `297193d00b001f01a080d5a3c48ebcc798253c6ff2a36b8f793ec1a7fee48df8` |
-| `docs/data-dictionary.md` | `1fd363f4c9b45c636eda39553c54eaeb1e357a9d01d9797f3561e06e8f4c80f9` |
+| `README.md` | `37294eb5b75321351a1bb303701a35a9ba7bddd29050fbc7552aa6038042711b` |
+| `docs/data-dictionary.md` | `dbb346b642de9e56857a22a4ebe7227f39553332b3ffc13fe212e063d3ae06a0` |
 | `docs/negative-scenarios.md` | `5c32e9196062d1c4d55c6aee8efcdeeeed87675520f5dbf248095d0974db1897` |
 | `docs/prompt-history.md` | `d377bf07647ee5324f10c48517a4a428cd29c85fd0bf85762792363b3e379c8a` |
 | `src/AllocationValidator.java` | `fdf19a333f0ff2300cc473fab77ee33f146eacc60da850d1c1f3b69957ca8492` |
