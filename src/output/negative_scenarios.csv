@@ -1,0 +1,6 @@
+scenario_id,issue_type,description,expected_decision,evidence_test,evidence_case
+NEG-001,DOCK_CAPACITY_EXCEEDED,Two overlapping appointments request the same dock,REJECT,DockConflictValidatorTest,Same dock overlap
+NEG-002,INCOMPATIBLE_LOAD,Shipment load type is incompatible with assigned dock,REJECT,IntegratedSchedulingValidatorTest,Wrong dock type
+NEG-003,CHECKIN_BEFORE_APPOINTMENT_DATE,Check-in occurs on the previous calendar date,REJECT,AppointmentLifecycleValidatorTest,Reject check-in previous day
+NEG-004,LABOR_SHIFT_UNAVAILABLE,Appointment begins before available labor shift,REJECT,LaborShiftValidatorTest,Appointment before shift
+NEG-005,NO_SHOW_NOT_RECORDED,No-show appointment has no NO_SHOW event,REJECT,AppointmentLifecycleValidatorTest,Reject missing no-show event
