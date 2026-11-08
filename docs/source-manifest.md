@@ -9,7 +9,7 @@ This manifest excludes itself to avoid a circular checksum.
 | `README.md` | `90360868ab80e2b034f5f036271793787809cba9700dcb62d485bf2ed4ed5c52` |
 | `docs/data-dictionary.md` | `dbb346b642de9e56857a22a4ebe7227f39553332b3ffc13fe212e063d3ae06a0` |
 | `docs/negative-scenarios.md` | `5c32e9196062d1c4d55c6aee8efcdeeeed87675520f5dbf248095d0974db1897` |
-| `docs/prompt-history.md` | `d377bf07647ee5324f10c48517a4a428cd29c85fd0bf85762792363b3e379c8a` |
+| `docs/prompt-history.md` | `619c8d0a554c93ce347a99d8ca1b7827e396c22b0c3e0b0ce10a6864e7a6d0e3` |
 | `src/AllocationValidator.java` | `fdf19a333f0ff2300cc473fab77ee33f146eacc60da850d1c1f3b69957ca8492` |
 | `src/AllocationValidatorTest.java` | `73b2eba37721db259ce9853711842d5fd4ceafcd131a078cc0d97fb349b12980` |
 | `src/AppointmentConflictScanner.java` | `29c0c542e7ab44807b78e1b1e77b6770f2a146f5eb4e490063cdb12258451da4` |
